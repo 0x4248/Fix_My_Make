@@ -23,7 +23,7 @@ function fixMakeFile(filename) {
   }
 }
 
-// Command line arguments
+
 const args = process.argv.slice(2);
 
 
