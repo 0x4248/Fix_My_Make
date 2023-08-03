@@ -1,0 +1,14 @@
+{
+  "name": "fix_my_make",
+  "version": "1.0.0",
+  "description": "Fixes common issues with makefiles",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bin" : {
+    "fix_my_make": "./src/index.js"
+  }
+}
