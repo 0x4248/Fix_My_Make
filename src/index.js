@@ -23,9 +23,7 @@ function fixMakeFile(filename) {
   }
 }
 
-
 const args = process.argv.slice(2);
-
 
 const makefile = args[0] || 'Makefile';
 fixMakeFile(makefile);
