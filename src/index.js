@@ -1,8 +1,8 @@
 /* Fix My Make
  * Fixes common formatting issues in Makefiles
- * Github: https://www.github.com/lewisevans2007/fix_my_make
+ * Github: https://www.github.com/0x4248/fix_my_make
  * Licence: GNU General Public License v3.0
- * By: Lewis Evans
+ * By: 0x4248
 */
 
 const fs = require('fs');
